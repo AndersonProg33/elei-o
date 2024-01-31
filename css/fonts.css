@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family: 'cera_probold_italic';
+    src: url('cera_pro_bold_italic-webfont.woff2') format('woff2'),
+         url('cera_pro_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_probold';
+    src: url('cera_pro_bold-webfont.woff2') format('woff2'),
+         url('cera_pro_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_prolight_italic';
+    src: url('cera_pro_light_italic-webfont.woff2') format('woff2'),
+         url('cera_pro_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_prolight';
+    src: url('cera_pro_light-webfont.woff2') format('woff2'),
+         url('cera_pro_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_promedium_italic';
+    src: url('cera_pro_medium_italic-webfont.woff2') format('woff2'),
+         url('cera_pro_medium_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_promedium';
+    src: url('cera_pro_medium-webfont.woff2') format('woff2'),
+         url('cera_pro_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_proitalic';
+    src: url('cera_pro_regular_italic-webfont.woff2') format('woff2'),
+         url('cera_pro_regular_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_proregular';
+    src: url('cera_pro_regular-webfont.woff2') format('woff2'),
+         url('cera_pro_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_prothin_italic';
+    src: url('cera_pro_thin_italic-webfont.woff2') format('woff2'),
+         url('cera_pro_thin_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cera_prothin';
+    src: url('cera_pro_thin-webfont.woff2') format('woff2'),
+         url('cera_pro_thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
